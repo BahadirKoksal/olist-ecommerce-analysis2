@@ -74,7 +74,7 @@ It contains **9 interconnected tables**:
 ### 🗺️ Geographic Insights
 
 #### Revenue Distribution by State
-- 🏆 **SP (São Paulo)** leads with 40,500 orders and **5.77M BRL** revenue — ~45% of all orders
+- **SP (São Paulo)** leads with 40,500 orders and **5.77M BRL** revenue — ~45% of all orders
 - **RJ, MG** follow with 2M BRL and 1.8M BRL respectively
 - **Bottom states** (AC, AP, RR) generate under 20K BRL but have the **highest AOV** (220–235 BRL)
 - SP's low AOV (136 BRL) shows a high-volume, lower-ticket strategy
@@ -85,9 +85,9 @@ It contains **9 interconnected tables**:
 - PE, PI, CE show similar seller-customer imbalances
 
 #### Delivery Performance
-- 🐢 **RR** has the longest avg delivery: **29 days**
-- ⚡ **SP** is fastest: **~8.3 days**
-- 🚨 **AL has the highest late delivery rate: 23.8%**
+-  **RR** has the longest avg delivery: **29 days**
+-  **SP** is fastest: **~8.3 days**
+-  **AL has the highest late delivery rate: 23.8%**
 - MA (19.7%), PI (16%), CE (15.3%) also critically high
 
 #### Customer Satisfaction
@@ -140,7 +140,7 @@ It contains **9 interconnected tables**:
 | New Customer | 90,556 | 160.76 BRL |
 | Returning Customer | 2,801 | 308.59 BRL |
 
-- 🚨 **97% of customers purchase only once**
+-  **97% of customers purchase only once**
 - Returning customers spend **2x more** (308 BRL vs 161 BRL)
 
 #### Top Seller Insights
@@ -150,7 +150,7 @@ It contains **9 interconnected tables**:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 **1. Fix the North & Northeast Delivery Problem**
 AL, MA, SE have 20%+ late delivery rates and below 3.9 review scores. Partner with regional logistics providers or open fulfillment centers in these states.
